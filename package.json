@@ -11,12 +11,16 @@
     "url": "git+https://github.com/Neson/react-native-google-analytics-native.git"
   },
   "keywords": [
-    "react"
+    "react-native",
+    "google-analytics"
   ],
   "author": "Neson <neson@dex.tw>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neson/react-native-google-analytics-native/issues"
   },
-  "homepage": "https://github.com/Neson/react-native-google-analytics-native#readme"
+  "homepage": "https://github.com/Neson/react-native-google-analytics-native#readme",
+  "peerDependencies": {
+    "react-native": ">=0.15.0"
+  }
 }
