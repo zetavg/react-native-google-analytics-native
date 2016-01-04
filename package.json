@@ -1,0 +1,22 @@
+{
+  "name": "react-native-google-analytics-native",
+  "version": "0.0.1",
+  "description": "Native Google Analytics for React Native, using Universal Analytics SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neson/react-native-google-analytics-native.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Neson <neson@dex.tw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neson/react-native-google-analytics-native/issues"
+  },
+  "homepage": "https://github.com/Neson/react-native-google-analytics-native#readme"
+}
